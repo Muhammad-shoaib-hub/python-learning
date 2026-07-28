@@ -1,0 +1,11 @@
+{
+    "name": "shoaib",
+    "role": "backend developer",
+    "day": 33,
+    "skills": [
+        "python",
+        "HTMl",
+        "file i/o"
+    ],
+    "is_active": true
+}

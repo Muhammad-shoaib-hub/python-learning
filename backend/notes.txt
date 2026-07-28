@@ -1,0 +1,3 @@
+Hello Shoaib!
+Welcome to Day 31 of your Python journey.
+Today we are learning how to handle text files!
