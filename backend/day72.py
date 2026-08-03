@@ -18,3 +18,4 @@ if re.search(r"\d", user_password):
     print("password contains a number")
 else:
     print("wrong, password mus contain at least one number")
+

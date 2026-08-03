@@ -43,8 +43,9 @@ def extract_date(text):
     date_pattern = r"\b\d{4}-\d{2}-\d{2}\b"
 
 
+
     # must remember this part
-    return re.search(date_pattern, text)
+    return re.findall(date_pattern, text)
 
 
 # ==========================================
